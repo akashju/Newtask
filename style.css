@@ -1,0 +1,47 @@
+body{background-color:#FBCA73}
+
+#wrapper {width:800px;margin-left:254px;margin-top:-9px;padding:0;background-color:D8E2A3;height:3000px;}
+
+.top {margin:}
+.header{background:url(images/header.jpg) 0 0 no-repeat;height:250px;margin-top:-23px;}
+.header {color:#272822;}
+
+.header p{margin-top:-25px;}
+.main{margin-left:10px;}
+.about{width:480px;height:605px;float:left;}
+.about img {margin:0;padding:0;height:110px;width:110px;}
+.categories{width:280px; float: right;margin-left:10px;height:605px;overflow:hidden;background:url(images/ct.jpg) 0 0 no-repeat;}
+.categories h2{margin-left:5px;}
+.categories  ul{margin-left:10px;padding:0;list-style:none;}
+.categories  ul li{font-size:19px;}
+.categories  ul li a{display:block;text-decoration:none;padding:10px;color:#FFFFFF;}
+
+.maincontent{margin-left:10px;width:800px;height:700px;}
+.content{width:480px;height:700px;float:left;}
+.menu{width:280px;height:700px;float:right;background:url(images/menu.jpg) 0 0 no-repeat;margin-right:-310px;margin-top:0px;}
+.menu ul{margin-left:-25px;list-style:none;}
+.menu ul li{ font-size:19px;}
+.menu ul li a{display:block;text-decoration:none;padding:10px;color:#FFE93A;}
+
+.mid{margin-left:10px;width:800px;height:700px;margin-right:-310px;margin-top:0px;}
+.history{width:480px;height;700px; float:left;margin-bottom:20px;}
+.archives{width:280px;height:700px;float:right;background:url(images/ar.jpg) 0 0 no-repeat;margin-top:0px;margin-right:10px;}
+.archives ul {list-style:none;margin-left:-25px;}
+.archives ul li { font-size:19px;}
+.archives ul li a {display:block;text-decoration:none;padding:10px;color:#FFFFFF;}
+.archives h2{color:#FFFFFF;margin-left:19px;}
+.idols {width:800px;height:500px;}
+.idols ul {list-style:none;margin-left:-25px;}
+.idols ul li { font-size:19px;float:left;margin:35px;margin-top:30px;}
+.idols ul li img {border-radius:50px;}
+.idols ul li a {display:block;text-decoration:none;padding:10px;color:#FFFFFF;}
+#pioneers {margin-top:30px;float:left;margin-left:60px;margin-bottom:20px;color:#016703;}
+#photo {margin:0px;}
+
+.footer {background:url(images/footer.jpg) 0 0 no-repeat;width:800px;height:250px;margin-top:1362px;}
+.footer img {margin-left:380px;}
+.footer p {Color:#FFFFFF;text-align:center;margin-top:100px;}
+#briefing{font-family:Arial;font-weight:8px;color:#7FBA00;text-align:left;}
+#heading {color:#016703; text-align:center;}
+#icon {color:#FFFFFF;text-align:center;}
+#finisher{color:#FFFFFF;text-align:center;}
